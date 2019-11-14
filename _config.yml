@@ -62,4 +62,4 @@ address:
 markdown: kramdown
 permalink: pretty
 
-theme: jekyll-theme-cayman
+remote_theme: y7kim/agency-jekyll-theme
