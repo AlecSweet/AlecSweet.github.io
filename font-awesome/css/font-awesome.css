@@ -576,6 +576,9 @@
 .fa-sign-out:before {
   content: "\f08b";
 }
+.fa-gitlab:before {
+  content: "\f296";
+}
 .fa-linkedin-square:before {
   content: "\f08c";
 }
