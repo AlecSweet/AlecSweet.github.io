@@ -318,6 +318,12 @@ header {
     padding: 15px 30px;
 }
 
+#aboutcont  {
+    background: "../img/picbanner.png";
+    background-image: url("../img/picbanner.png");
+    background-repeat: no-repeat;
+}
+
 // Contact
 #contact .fa {
     color: $theme-dark;
