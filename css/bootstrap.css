@@ -13,6 +13,7 @@ html {
 #about {
     background-image: url("../img/picbanner.png");
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 body {
